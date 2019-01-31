@@ -3,15 +3,18 @@ import sys
 
 def read_doc():
     sample = ''
-    # word_num = int(sys.argv[1:])
-    f = open('sample_words.txt', 'r')
+    word_num = int(sys.argv[1])
+    the_file = open('sample_words.txt', 'r')
     # loop thourhg the lines of doc
     # print random x amount of words from the list
     # x amount = user input number
 
-    for line in f:
+    for line in the_file:
         sample += str(line)
-    print(sample)
+    x = sample.split()
+    print(' '.join(random.choices(x, k=word_num)))
+    
+    
 
 read_doc()
 
