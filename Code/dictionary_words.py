@@ -1,6 +1,8 @@
 import random
 import sys
+from datetime import datetime
 
+start_time = datetime.now()
 def read_doc():
     sample = ''
     word_num = int(sys.argv[1])
@@ -13,3 +15,4 @@ def read_doc():
 
 read_doc()
 
+print(datetime.now()-start_time)
