@@ -15,7 +15,10 @@ def histogram():
     for word in wordlist:
         histogram.append(wordlist.count(word))
 
-    print("Frequencies\n" + str(histogram) + "\n")
+    zipped_data = zip(wordlist, histogram)
+
+    # print("Frequencies\n" + str(histogram) + "\n")
+    print(list(zipped_data))
 
 histogram()
 start_time = datetime.now()

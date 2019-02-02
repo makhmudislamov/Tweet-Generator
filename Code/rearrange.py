@@ -22,16 +22,6 @@ def random_words(word):
     
     return word
 
-    # create new array result_arr = []
-   
-    # loop through input_words
-    # for word in input_words:
-    #     if word not in dup_words:
-    #     # if word not in result_arr:
-    #         result_arr.append(word)
-    #         dup_words.add(word)
-    # return result_arr
-
 
 print(' '.join(map(random_words, input_words)))
 
