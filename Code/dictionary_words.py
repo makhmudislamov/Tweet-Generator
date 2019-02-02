@@ -6,7 +6,7 @@ from datetime import datetime
 def read_doc():
     sample = ''
     word_num = int(sys.argv[1])
-    the_file = open('/usr/share/dict/words', 'r')
+    the_file = open('the_matrix.txt', 'r')
   
     for line in the_file:
         sample += str(line)
