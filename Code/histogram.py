@@ -3,7 +3,7 @@ from datetime import datetime
 def histogram():
     histogram = []
     hist_string = ''
-    source_text = open('the_matrix.txt', 'r')
+    source_text = open('sample_words.txt', 'r')
     for line in source_text:
         hist_string += str(line).lower()
         
@@ -19,11 +19,12 @@ def histogram():
     # zipping wordlist and histogram
     zipped_data = zip(wordlist, histogram)
 
-
-    # printing tuple >> uncomment the line below
-    # print(list(zipped_data))
+    # printing list of tuple >> uncomment the line below
+    print(list(zipped_data))
     # printing dictionary, key-value pair >> uncomment the line below
-    print(dict(zipped_data)) 
+    # print(dict(zipped_data))
+    # printing list of list >> uncomment the line below
+    
 
 histogram()
 start_time = datetime.now()
