@@ -3,35 +3,34 @@ import sys
 
 output_choice = str(sys.argv[1])
 def histogram():
-    
+    """
+    This function returns histogram as dictionary, 
+    list of list or list of tuples depending on user's choice.
+    """
     word_freq = []
     hist_string = ''
     source_text = open('sample_words.txt', 'r')
+
     for line in source_text:
         hist_string += str(line).lower()
         
     wordlist = hist_string.split()
 
-    # iterate over the text
-    # keep record of each word >> how many times the word is repeated
-    # append histogram as key-value pair
-    # print the histogram
     for word in wordlist:
-        # issue is here , dont user .count >> inefficient
+        # issue is here , dont use .count >> inefficient
         word_freq.append(wordlist.count(word))
         # bugfix this and print
         # list_of_list.append([wordlist, histogram]))
 
     # zipping wordlist and histogram
-    zipped_data = zip(wordlist, word_freq)
+    zipped_histogram = zip(wordlist, word_freq)
     
-
     if output_choice == 'dict':
     # # printing dictionary, key-value pair >> uncomment the line below
-        print(dict(zipped_data))
+        print(dict(zipped_histogram))
     elif output_choice == 'tuple':
     # # printing list of tuple >> uncomment the line below
-        print(list(zipped_data))
+        print(list(zipped_histogram))
 
     print(word_freq)
     
