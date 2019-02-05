@@ -1,7 +1,10 @@
 from datetime import datetime
+import sys
 
+output_choice = str(sys.argv[1])
 def histogram():
-    histogram = []
+    
+    word_freq = []
     hist_string = ''
     source_text = open('sample_words.txt', 'r')
     for line in source_text:
@@ -14,16 +17,24 @@ def histogram():
     # append histogram as key-value pair
     # print the histogram
     for word in wordlist:
-        histogram.append(wordlist.count(word))
+        # issue is here , dont user .count >> inefficient
+        word_freq.append(wordlist.count(word))
+        # bugfix this and print
+        # list_of_list.append([wordlist, histogram]))
 
     # zipping wordlist and histogram
-    zipped_data = zip(wordlist, histogram)
+    zipped_data = zip(wordlist, word_freq)
+    
 
-    # printing list of tuple >> uncomment the line below
-    print(list(zipped_data))
-    # printing dictionary, key-value pair >> uncomment the line below
-    # print(dict(zipped_data))
-    # printing list of list >> uncomment the line below
+    if output_choice == 'dict':
+    # # printing dictionary, key-value pair >> uncomment the line below
+        print(dict(zipped_data))
+    elif output_choice == 'tuple':
+    # # printing list of tuple >> uncomment the line below
+        print(list(zipped_data))
+
+    print(word_freq)
+    
     
 
 histogram()
