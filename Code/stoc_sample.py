@@ -1,5 +1,6 @@
 import histogram
 import sys
+from random import randint
 
 # command line input >> file name
 cl_input = str(sys.argv[1])

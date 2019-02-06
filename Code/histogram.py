@@ -32,7 +32,7 @@ def histogram():
     # # printing list of tuple >> uncomment the line below
         print(list(zipped_histogram))
 
-    print(word_freq)
+    print(dict(zipped_histogram))
     
     
 
