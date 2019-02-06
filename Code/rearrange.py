@@ -14,9 +14,6 @@ def random_words(word):
     word = input_words[rand_index]
     
     return word
-# Mapping and outputting in terminal. 
-
-
 
 if __name__ == "__main__":
     start_time = datetime.now()

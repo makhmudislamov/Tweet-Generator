@@ -1,1 +1,4 @@
-pip3 install PyPDF2 >>> to work with pdf files (never used for this project)
+Questions:
+1. printing list of list using mapping or change it, count non efficency
+2. 
+. stochastic sample
