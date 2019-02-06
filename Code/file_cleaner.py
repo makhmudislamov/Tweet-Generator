@@ -1,5 +1,5 @@
 """ This cleaner function belongs to Jackson Ho. Thanks Jackson!!!"""
-file = "the_matrix.txt"
+file = "sample_words.txt"
 
 def file_cleaner(file_name):
     with open(file_name) as f:  # with open automatically closes the file after extracting the content
