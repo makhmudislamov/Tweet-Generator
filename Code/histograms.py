@@ -1,6 +1,10 @@
 import sys
+
+
 word_list = ['one', 'fish', 'two', 'two', 'fish', 'red', 'fish', 'blue', 'fish']
 cl_input = str(sys.argv[1])
+
+
 def histogram_dict(word_list):
     """
     Input >>> array of strings

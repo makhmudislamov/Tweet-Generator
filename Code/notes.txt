@@ -1,4 +1,3 @@
 Questions:
-1. printing list of list using mapping or change it, count non efficency
-2. 
+1. printing list of list using mapping or change it, count non efficency >>> redo whole thing dont use zip()
 . stochastic sample
