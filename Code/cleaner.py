@@ -1,7 +1,8 @@
 """ This cleaner function belongs to Jackson Ho. Thanks Jackson!!!"""
-file = "sample_words.txt"
 
+file = "sample_words.txt"
 def file_cleaner(file_name):
+    
     with open(file_name) as f:  # with open automatically closes the file after extracting the content
 
         # This line is from Zurich Okoren github
@@ -15,8 +16,8 @@ def file_cleaner(file_name):
         for index in range(len(pure_text)):
             pure_text[index] = pure_text[index].strip()
 
-        # return pure_text
-        print(pure_text)
+        return pure_text
+        # print(pure_text)
 
     
 if __name__ == '__main__':
