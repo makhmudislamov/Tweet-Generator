@@ -60,7 +60,7 @@ def histogram_list(word_list):
         if not found:
             hist_list.append([word, 1])
 
-    return hist_list
+    return hist_list 
     # print(hist_list)
 
 def format_choice(cl_input):

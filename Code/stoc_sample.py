@@ -1,6 +1,6 @@
 import random
 from histograms import *
-import sys
+# import sys
 from datetime import datetime
 
 def rand_word():
@@ -14,6 +14,10 @@ def rand_word():
 
 
 def rand_hist_word():
+    """
+    This function creates dictionary from CL words.
+    Then prints random word from the dictionary
+    """
     histogram = histogram_dict(input_words)
     rand_key = random.randint(0, len(histogram)-1)
     print(histogram)
