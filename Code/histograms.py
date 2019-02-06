@@ -20,7 +20,7 @@ def histogram_dict(word_list):
             hist_dict[word] += 1
 
     print(hist_dict)
-
+    
 def histogram_tuple(word_list):
     """
     Input >>> array of strings
@@ -67,12 +67,12 @@ def format_choice(cl_input):
     """
     This is a helper function. A user can choose an output format
     """
-    if cl_input == 'dict':
-        histogram_dict(file_cleaner(cleaner.file))
+    if cl_input == 'list':
+        histogram_list(file_cleaner(cleaner.file))
     elif cl_input == 'tuple':
         histogram_tuple(file_cleaner(cleaner.file))
-    elif cl_input == 'list':
-        histogram_list(file_cleaner(cleaner.file))
+    elif cl_input == 'dict':
+        histogram_dict(file_cleaner(cleaner.file))
 
 
 if __name__ == '__main__':
