@@ -32,7 +32,7 @@ def histogram():
     # # printing list of tuple >> uncomment the line below
         print(list(zipped_histogram))
 
-    print(dict(zipped_histogram))
+    # print(dict(zipped_histogram))
     
     
 
