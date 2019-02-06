@@ -1,4 +1,5 @@
 import random
+from histograms import *
 import sys
 from datetime import datetime
 
@@ -12,14 +13,23 @@ def rand_word():
     print(word)
 
 
+def rand_hist_word():
+    histogram = histogram_dict(input_words)
+    rand_key = random.randint(0, len(histogram)-1)
+    print(histogram)
+    print([key for key in histogram.keys()][rand_key])
+    
+
+
 
 if __name__ == "__main__":
     start_time = datetime.now()
     input_words = list(sys.argv[1:])
-    rand_word()
+    # rand_word()
+    rand_hist_word()
     print(datetime.now()-start_time)
 
-
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # import histogram_draft
 # import sys

@@ -1,9 +1,7 @@
 from cleaner import file_cleaner
 import cleaner
+import random
 import sys
-
-
-cl_input = str(sys.argv[1])
 
 
 def histogram_dict(word_list):
@@ -19,7 +17,8 @@ def histogram_dict(word_list):
         else:
             hist_dict[word] += 1
 
-    print(hist_dict)
+    return hist_dict
+    # print(hist_dict)
     
 def histogram_tuple(word_list):
     """
@@ -61,7 +60,8 @@ def histogram_list(word_list):
         if not found:
             hist_list.append([word, 1])
 
-    print(hist_list)
+    return hist_list
+    # print(hist_list)
 
 def format_choice(cl_input):
     """
@@ -76,4 +76,6 @@ def format_choice(cl_input):
 
 
 if __name__ == '__main__':
-    format_choice(cl_input)
+    # cl_input = str(sys.argv[1])
+    # format_choice(cl_input)
+    histogram_dict(file_cleaner(cleaner.file))
