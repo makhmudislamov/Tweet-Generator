@@ -45,3 +45,8 @@ print(datetime.now()-start_time)
 
 # def frequency():
 #     ...
+
+# TODO 1>> printing list of lists
+# TODO 2>> cleaning up the file from punctuations
+# TODO 3>> def unique words
+# TODO 4>> def frequency
