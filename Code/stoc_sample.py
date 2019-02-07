@@ -42,8 +42,17 @@ def stochastic_sample(histogram):
             return word
             
     
+def test_iteration(histogram, iteration):
 
+    hist_dict = {}
+    word_list = [stochastic_sample(histogram) for x in range(iteration)]
+    for word in word_list:
+        if word not in hist_dict:
+            hist_dict[word] = 1
+        else:
+            hist_dict[word] += 1
 
+    return hist_dict
 
 
 
@@ -52,25 +61,7 @@ if __name__ == "__main__":
     # input_words = list(sys.argv[1:])
     # rand_word()
     histogram = {'one': 1, 'fish': 4, 'two': 1, 'red': 1, 'blue': 1}
-    # for i in range(100):
-    #     print(stochastic_sample(histogram))
-    word_list = [stochastic_sample(histogram) for x in range(10000)]
-    # fish_count = len([x for x in word_list if x == 'one'])
-
-    # print(word_list)
-    # print('Fish count: ', fish_count)
-    
-    # rand_hist_word()
-
-    hist_dict = {}
-
-    for word in word_list:
-        if word not in hist_dict:
-            hist_dict[word] = 1
-        else:
-            hist_dict[word] += 1
-
-    print(hist_dict)
+    print(test_iteration(histogram, 10000))    
     print(datetime.now()-start_time)
 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
