@@ -24,13 +24,53 @@ def rand_hist_word():
     print([key for key in histogram.keys()][rand_key])
     
 
+def stochastic_sample(histogram):
+    """
+    Returns random word from the dictionary based on frequency.
+    """
+    tokens = 0
+
+    cumulative_probability = 0.0
+    # you can use sum()
+    for word_frequency in histogram.values():
+        tokens += word_frequency # this works until here, tested with print
+    
+    random_choice = random.uniform(0, 1)
+    for word, word_frequency in histogram.items():
+        cumulative_probability += word_frequency/tokens
+        if cumulative_probability >= random_choice:
+            return word
+            
+    
+
+
+
 
 
 if __name__ == "__main__":
     start_time = datetime.now()
-    input_words = list(sys.argv[1:])
+    # input_words = list(sys.argv[1:])
     # rand_word()
-    rand_hist_word()
+    histogram = {'one': 1, 'fish': 4, 'two': 1, 'red': 1, 'blue': 1}
+    # for i in range(100):
+    #     print(stochastic_sample(histogram))
+    word_list = [stochastic_sample(histogram) for x in range(10000)]
+    # fish_count = len([x for x in word_list if x == 'one'])
+
+    # print(word_list)
+    # print('Fish count: ', fish_count)
+    
+    # rand_hist_word()
+
+    hist_dict = {}
+
+    for word in word_list:
+        if word not in hist_dict:
+            hist_dict[word] = 1
+        else:
+            hist_dict[word] += 1
+
+    print(hist_dict)
     print(datetime.now()-start_time)
 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
