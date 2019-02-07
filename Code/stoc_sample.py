@@ -43,16 +43,12 @@ def stochastic_sample(histogram):
             
     
 def test_iteration(histogram, iteration):
-
-    hist_dict = {}
+    """
+    Creates hisogram based on stochastic sampling and iterating given amount to prove stochastic sampmling
+    """
     word_list = [stochastic_sample(histogram) for x in range(iteration)]
-    for word in word_list:
-        if word not in hist_dict:
-            hist_dict[word] = 1
-        else:
-            hist_dict[word] += 1
-
-    return hist_dict
+    return histogram_dict(word_list)
+   
 
 
 
