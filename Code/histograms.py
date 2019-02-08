@@ -17,8 +17,8 @@ def histogram_dict(word_list):
         else:
             hist_dict[word] += 1
 
-    return hist_dict
-    # print(hist_dict)
+    # return hist_dict
+    print(hist_dict)
     
 def histogram_tuple(word_list):
     """
@@ -26,7 +26,7 @@ def histogram_tuple(word_list):
     Output >>> histogram in a tuple format
     """
     hist_tuple = []
-
+    #TODO: adding extra word for first value  -FIX IT
     hist_tuple.append((word_list[0], 1))
     for word in word_list:
         found = False
@@ -40,7 +40,8 @@ def histogram_tuple(word_list):
         if not found:
             hist_tuple.append((word, 1))
 
-    print(hist_tuple)
+    # print(hist_tuple)
+    return hist_tuple
 
 
 def histogram_list(word_list):
@@ -76,6 +77,6 @@ def format_choice(cl_input):
 
 
 if __name__ == '__main__':
-    # cl_input = str(sys.argv[1])
-    # format_choice(cl_input)
-    histogram_dict(file_cleaner(cleaner.file))
+    cl_input = str(sys.argv[1])
+    format_choice(cl_input)
+    # histogram_dict(file_cleaner(cleaner.file))
