@@ -17,8 +17,8 @@ def histogram_dict(word_list):
         else:
             hist_dict[word] += 1
 
-    # return hist_dict
-    print(hist_dict)
+    return hist_dict
+    # print(hist_dict)
     
 def histogram_tuple(word_list):
     """
