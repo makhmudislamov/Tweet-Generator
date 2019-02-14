@@ -77,6 +77,6 @@ def format_choice(cl_input):
 
 
 if __name__ == '__main__':
-    cl_input = str(sys.argv[1])
-    format_choice(cl_input)
-    # histogram_dict(file_cleaner(cleaner.file))
+    # cl_input = str(sys.argv[1])
+    # format_choice(cl_input)
+    print(histogram_tuple(file_cleaner(cleaner.file)))
