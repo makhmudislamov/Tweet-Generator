@@ -4,5 +4,5 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return "Hello World!"
+    return "This is a landing page for sick tweet generator app"
 
