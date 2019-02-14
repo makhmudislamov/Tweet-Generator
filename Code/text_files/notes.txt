@@ -2,3 +2,5 @@
 Heroku: 
 https://matrix-tweet-generator.herokuapp.com/
 
+run virtualenv:
+source flask/venv/bin/activate
