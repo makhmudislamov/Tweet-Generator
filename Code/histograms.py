@@ -27,7 +27,7 @@ def histogram_tuple(word_list):
     """
     hist_tuple = []
     #TODO: adding extra word for first value  -FIX IT
-    hist_tuple.append((word_list[0], 1))
+    hist_tuple.append((word_list[0], 0))
     for word in word_list:
         found = False
         for index, value in enumerate(hist_tuple):
