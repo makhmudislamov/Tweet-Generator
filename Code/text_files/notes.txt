@@ -9,3 +9,4 @@ source flask/venv/bin/activate
 next steps:
 
 1. finish dictogram >> find a wat to import inside test dir
+2. finish listogram >> find a wat to import inside test dir
