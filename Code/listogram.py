@@ -31,7 +31,8 @@ class Listogram(list):
 
     def frequency(self, word):
         """Return frequency count of given word, or 0 if word is not found."""
-        # TODO: Retrieve word frequency count
+        index = self._index(word)
+        return self[index][1] if index is not None else 0
 
     def __contains__(self, word):
         """Return boolean indicating if given word is in this histogram."""
