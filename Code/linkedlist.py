@@ -62,9 +62,17 @@ class LinkedList(object):
     def append(self, item):
         """Insert the given item at the tail of this linked list.
         TODO: Running time: O(???) Why and under what conditions?"""
-        # TODO: Create new node to hold given item
-        # TODO: Append node after tail, if it exists
-
+        # New node
+        new_node = Node(item)
+        # check if LL is empty and append at the beginning of the list
+        if(self.head == None):
+            self.head = new_node
+            self.tail = self.head
+        # else append at the end with tail 
+        else:
+            self.tail.next = new_node
+            self.tail = self.tail.next
+        self.length += 1
 
     def prepend(self, item):
         """Insert the given item at the head of this linked list.
