@@ -19,7 +19,7 @@ class LinkedList(object):
         """Initialize this linked list and append the given items, if any."""
         self.head = None  # First node
         self.tail = None  # Last node
-        self.length = 0
+        self.ll_length = 0
 
         # Append given items
         if items is not None:
@@ -57,7 +57,7 @@ class LinkedList(object):
     def length(self):
         """Return the length of this linked list by traversing its nodes.
         TODO: Running time: O(???) Why and under what conditions?"""
-        return self.length
+        return self.ll_length
 
     def append(self, item):
         """Insert the given item at the tail of this linked list.
@@ -72,7 +72,7 @@ class LinkedList(object):
         else:
             self.tail.next = new_node
             self.tail = self.tail.next
-        self.length += 1
+        self.ll_length += 1
 
     def prepend(self, item):
         """Insert the given item at the head of this linked list.
@@ -86,17 +86,18 @@ class LinkedList(object):
         else:
             new_node.next = self.head
             self.head = new_node
-        self.length += 1
+        self.ll_length += 1
 
 
     def find(self, quality):
         """Return an item from this linked list satisfying the given quality.
         TODO: Best case running time: O(???) Why and under what conditions?
         TODO: Worst case running time: O(???) Why and under what conditions?"""
-       node = self.head
-       while (node != None):
-           if quality(node.data):
-               return node.data
+
+        node = self.head
+        while (node != None):
+            if quality(node.data):
+                return node.data
             node = node.next
         return None
 
@@ -104,13 +105,13 @@ class LinkedList(object):
         """Delete the given item from this linked list, or raise ValueError.
         TODO: Best case running time: O(???) Why and under what conditions?
         TODO: Worst case running time: O(???) Why and under what conditions?"""
-       current_node = self.head
-       previous_node = None
-       while current_node is not None:
-           if current_node.data == item:
-               self.length -= 1
-               if current_node.next is None:
-                   self.tail = previous_node
+        current_node = self.head
+        previous_node = None
+        while current_node is not None:
+            if current_node.data == item:
+                self.ll_length -= 1
+                if current_node.next is None:
+                    self.tail = previous_node
                 if previous_node is not None:
                     previous_node.next = current_node.next
                     return self.head
