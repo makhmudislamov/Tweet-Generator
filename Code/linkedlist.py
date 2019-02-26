@@ -61,7 +61,7 @@ class LinkedList(object):
 
     def append(self, item):
         """Insert the given item at the tail of this linked list.
-        TODO: Running time: O(???) Why and under what conditions?"""
+        TODO: Running time: O(1) only change the nade node (tail)"""
         # New node
         new_node = Node(item)
         # check if LL is empty and append at the beginning of the list
@@ -76,7 +76,7 @@ class LinkedList(object):
 
     def prepend(self, item):
         """Insert the given item at the head of this linked list.
-        TODO: Running time: O(???) Why and under what conditions?"""
+        TODO: Running time: O(1) because we only change the first node and never loop through all nodes. """
         # New node
         new_node = Node(item)
         # check if head is pointing to none
