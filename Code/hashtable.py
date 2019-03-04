@@ -26,7 +26,7 @@ class HashTable(object):
 
     def keys(self):
         """Return a list of all keys in this hash table.
-        TODO: Running time: O(n*n) >>> because nested loop"""
+        Running time: O(n*n) >>> because nested loop"""
         # Collect all keys in each bucket
         all_keys = []
         for bucket in self.buckets:
@@ -36,7 +36,7 @@ class HashTable(object):
 
     def values(self):
         """Return a list of all values in this hash table.
-        TODO: Running time: O(n*n) >>> because nested loop"""
+        Running time: O(n*n) >>> because nested loop"""
         all_values = []
         for bucket in self.buckets:
             for key, value in bucket.items():
@@ -46,7 +46,7 @@ class HashTable(object):
 
     def items(self):
         """Return a list of all items (key-value pairs) in this hash table.
-        TODO: Running time: O(n) one iteration through all entries"""
+        Running time: O(n) one iteration through all entries"""
         # Collect all pairs of key-value entries in each bucket
         all_items = []
         for bucket in self.buckets:
@@ -55,7 +55,7 @@ class HashTable(object):
 
     def length(self):
         """Return the number of key-value entries by traversing its buckets.
-        TODO: Running time: O(b*l) = O(n) >>> l = # of nodes in LL, b = # of buckets,
+        Running time: O(b*l) = O(n) >>> l = # of nodes in LL, b = # of buckets,
         n = # of entries in (key-value pair)"""
     
         entries = 0
@@ -65,7 +65,7 @@ class HashTable(object):
 
     def contains(self, key):
         """Return True if this hash table contains the given key, or False.
-        TODO: Running time: 
+        Running time: 
         Optimal case: O(1) >>> key is at or near the head
         Worst case: O(l) l = # number of nodes in LL
         """
@@ -79,7 +79,7 @@ class HashTable(object):
 
     def get(self, key):
         """Return the value associated with the given key, or raise KeyError.
-        TODO: Running time:
+        Running time:
         Optimal case: O(1) >>> key is at or near the head 
         Worst case: O(l) l = # number of nodes in LL 
         """
@@ -92,7 +92,7 @@ class HashTable(object):
 
     def set(self, key, value):
         """Insert or update the given key with its associated value.
-        TODO: Running time: O(l) l = # number of nodes in LL"""
+        Running time: O(l) l = # number of nodes in LL"""
        
         key_index = self._bucket_index(key)
         bucket = self.buckets[key_index]
@@ -102,7 +102,7 @@ class HashTable(object):
 
     def delete(self, key):
         """Delete the given key from this hash table, or raise KeyError.
-        TODO: Running time: O(l) l = # number of nodes in LL"""
+        Running time: O(l) l = # number of nodes in LL"""
  
         key_index = self._bucket_index(key)
         bucket = self.buckets[key_index]

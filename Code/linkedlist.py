@@ -59,12 +59,12 @@ class LinkedList(object):
 
     def length(self):
         """Return the length of this linked list by traversing its nodes.
-        TODO: Running time: O(1) >>> since using .ll_length """
+        Running time: O(1) >>> since using .ll_length """
         return self.ll_length
 
     def append(self, item):
         """Insert the given item at the tail of this linked list.
-        TODO: Running time: O(1) only change the node (tail)"""
+        Running time: O(1) only change the node (tail)"""
         # New node
         new_node = Node(item)
         # check if LL is empty and append at the beginning of the list
@@ -79,7 +79,7 @@ class LinkedList(object):
 
     def prepend(self, item):
         """Insert the given item at the head of this linked list.
-        TODO: Running time: O(1) because we only change the first node and never loop through all nodes. """
+        Running time: O(1) because we only change the first node and never loop through all nodes. """
         # New node
         new_node = Node(item)
         # check if head is pointing to none
@@ -94,8 +94,8 @@ class LinkedList(object):
 
     def find(self, quality):
         """Return an item from this linked list satisfying the given quality.
-        TODO: Best case running time: O(1) >>> looking for an item at or near head 
-        TODO: Worst case running time: O(n) looking for an item in the middle, near tail or item DNE"""
+        Best case running time: O(1) >>> looking for an item at or near head 
+        Worst case running time: O(n) looking for an item in the middle, near tail or item DNE"""
 
         node = self.head
         while (node != None):
@@ -106,8 +106,8 @@ class LinkedList(object):
 
     def delete(self, item):
         """Delete the given item from this linked list, or raise ValueError.
-        TODO: Best case running time: O(1) >>> looking for an item at or near head
-        TODO: Worst case running time: O(n) looking for an item in the middle, near tail or item DNE"""
+        Best case running time: O(1) >>> looking for an item at or near head
+        Worst case running time: O(n) looking for an item in the middle, near tail or item DNE"""
         current_node = self.head
         previous_node = None
         while current_node is not None:
