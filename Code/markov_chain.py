@@ -1,17 +1,37 @@
+import random
 from dictogram import Dictogram
-import listogram
+from linkedlist import LinkedList
 
-def markov_chain_builder(histogram):
-    # should have and empty dict chain_hist = {} - DONE
-    # should import histogram - DONE
-    # go through the histogram and fill chain_hist = {}
-    #  each new word in the chain_hist will have nested dictionary 
-    # of potential pairs
-    # return chain_hist
-    chained_dict = Dictogram()
+fish = ['one', 'fish', 'two', 'fish', 'red', 'fish', 'blue', 'fish']
+
+class Markov_Chain(Dictogram):
+    """Creates first order markov chain"""
+    def __init__(self, word_list = None):
+        super(Markov_Chain, self).__init__()
+        self.word_list = word_list
+        if self.word_list != None:
+            self.create(self.word_list)
 
 
-    pass
+    def create(self, word_list):
+        for i, word in enumerate(word_list):
+            if i == len(word_list):
+                return self
+                # is a word in the chain?
+            if word in self:
+                # is the following word in the chain
+                word.add_count(word_list[i+1], 1)
+            else:
+                self[word] = {word_list[i+1]: 1}
 
-if __name__ == '__main__':
-    pass
+
+''' print Tests '''
+fish = ['one', 'fish', 'two', 'fish', 'red', 'fish', 'blue', 'fish']
+my_chain = Markov_Chain(fish)
+print(my_chain)
+
+
+
+# if __name__ == '__main__':
+#     pass
+
