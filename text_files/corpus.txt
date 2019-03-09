@@ -1,6 +1,5 @@
-         by
+
 Larry and Andy Wachowski
-NUMBERED SHOOTING SCRIPT
 March 29, 1998
    
 FADE IN:
@@ -8,20 +7,19 @@ FADE IN:
 A blinding cursor pulses in the electric darkness like a heart coursing with phosphorous light, burning beneath the derma of black-neon glass.
 A PHONE begins to RING, we hear it as though we were making the call. The cursor continues to throb, relentlessly patient, until --
 Yeah?
-MAN (V.O.)
-Data now slashes across the screen, information flashing faster then we can read: "Call trans opt: received. 2-19-98 13:24:18 REC:Log>."
-WOMAN (V.O.) Is everything in place?
+MAN (-)
+WOMAN (-) Is everything in place?
 On screen: "Trace program: running."
 We listen to the phone conversation as though we were on a third line. The man's name is Cypher. The woman, Trinity.
 TRINITY (WOMANV.O.) I said, is everything in place?
 The entire screen with racing columns of numbers. Shimmering like green-electric rivers, they rush at a 10-digit phone number in the top corner.
 CYPHER (MANV.O.) You weren't supposed to relieve
 me.
-TRINITY (V.O.)
+TRINITY (-)
 I know but I felt like taking a
 shift.
 The area code is identified. The first three numbers suddenly fixed, leaving only seven flowing columns.
-CYPHER (V.O.)
+CYPHER (-)
 You like him, don't you? You like
 watching him?
 We begin MOVING TOWARD the screen, CLOSING IN as each digit is matched, one by one, snapping into place like the wheels of a slot machine.
@@ -29,30 +27,30 @@ We begin MOVING TOWARD the screen, CLOSING IN as each digit is matched, one by o
 
 1 CONTINUED:
 1
-TRINITY (V.O.) Don't be ridiculous.
-CYPHER (V.O.) We're going to kill him. Do you
+TRINITY (-) Don't be ridiculous.
+CYPHER (-) We're going to kill him. Do you
 understand that? He's going to die just like the others.
-TRINITY (V.O.) Morpheus believes he is the One.
+TRINITY (-) Morpheus believes he is the One.
 Only two thin digits left.
-CYPHER (V.O.)
+CYPHER (-)
 Do you?
-TRINITY (V.O.) I... it doesn't matter what I
+TRINITY (-) I... it doesn't matter what I
 believe.
-CYPHER (V.O.) You don't, do you?
-TRINITY (V.O.) If you have something to say, I suggest you say it to Morpheus.
-CYPHER (V.O.)
+CYPHER (-) You don't, do you?
+TRINITY (-) If you have something to say, I suggest you say it to Morpheus.
+CYPHER (-)
 I intend to, believe me. Someone
 has to.
 The final NUMBER POPS into place --
-TRINITY (V.O.) Did you hear that?
+TRINITY (-) Did you hear that?
 Hear what?
-CYPHER (V.O.)
+CYPHER (-)
 On screen: "Trace complete. Call origin: #312-555- 0690.
-TRINITY (V.O.) Are you sure this line is clean?
-CYPHER (V.O.) Yeah, 'course I'm sure.
+TRINITY (-) Are you sure this line is clean?
+CYPHER (-) Yeah, 'course I'm sure.
 We MOVE STILL CLOSER, the ELECTRIC HUM of the green NUMBERS GROWING into an ominous ROAR.
 I better go.
-TRINITY (V.O.)
+TRINITY (-)
 (CONTINUED)
 2.
 
@@ -120,20 +118,20 @@ Agent Brown enters the hotel while Agent Smith heads for the alley.
 6 INT. HEART O' THE CITY HOTEL 6
 Trinity is on the phone, pacing. The other end is answered.
 Operator.
-MAN (V.O.)
+MAN (-)
 TRINITY
 Morpheus! The line was traced! I
 don't know how.
 MORPHEUS (MANV.O.) I know. They cut the hardline. This line is not a viable exit.
 TRINITY Are there any Agents?
 Yes. Goddamnit!
-MORPHEUS (V.O.) TRINITY MORPHEUS (V.O.)
+MORPHEUS (-) TRINITY MORPHEUS (-)
 You have to focus. There is a phone. Wells and Lake. You can make it.
 She takes a deep breath, centering herself. TRINITY
 All right --
 Go.
 She drops the phone.
-MORPHEUS (V.O.)
+MORPHEUS (-)
 
 THE MATRIX - Rev. 3/9/98 6. 7 INT. HALL
 She bursts out of the room as Agent Brown enters the hall, leading another unit of police. Trinity races to the opposite end, exiting through a broken window onto the fire escape.
@@ -407,26 +405,26 @@ NEO
 (CONTINUED)
 
 THE MATRIX - Rev. 3/9/98 17 CONTINUED:
-MORPHEUS (V.O.) Hello, Neo. Do you know who this
+MORPHEUS (-) Hello, Neo. Do you know who this
 is?
 Neo's knees give and he sinks into his chair.
 NEO Morpheus...
-MORPHEUS (V.O.) I've been looking for you, Neo. I
+MORPHEUS (-) I've been looking for you, Neo. I
 don't know if you're ready to see what I want to show you, but unfortunately, we have run out of time. They're coming for you, Neo. And I'm not sure what they're going to do.
 NEO Who's coming for me?
-MORPHEUS (V.O.) Stand up and see for yourself.
+MORPHEUS (-) Stand up and see for yourself.
 16.
 Right now?
 Yes. Now. Neo starts to stand.
 NEO
-MORPHEUS (V.O.)
-MORPHEUS (V.O.) Do it slowly. The elevator.
+MORPHEUS (-)
+MORPHEUS (-) Do it slowly. The elevator.
 His head peeks up over the partition. At the elevator, he sees Agent Smith, Agent Brown and Agent Jones leading a group of cops. A female employee turns and points out Neo's cubicle.
 Neo ducks.
 Holy shit!
 Yes.
 NEO
-MORPHEUS (V.O.)
+MORPHEUS (-)
 One cop stays at the elevator, the others follow the Agents.
 NEO
 What the hell do they want with
@@ -435,30 +433,30 @@ me?!
 17
 
 17 CONTINUED: (2)
-MORPHEUS (V.O.) I'm not sure, but if you don't
+MORPHEUS (-) I'm not sure, but if you don't
 want to find out, you better get out of there.
 17
 How?!
 NEO
-MORPHEUS (V.O.)
+MORPHEUS (-)
 I can guide you out, but you have
 to do exactly what I say.
 The agents are moving quickly towards the cubicle.
-MORPHEUS (V.O.) The cubicle across from you is
+MORPHEUS (-) The cubicle across from you is
 empty.
 NEO But what if...?
 Go! Now!
-MORPHEUS (V.O.)
+MORPHEUS (-)
 Neo lunges across the hall, diving into the other cubicle just as the Agents turn into his row.
 Neo crams himself into a dark corner, clutching the phone tightly to him.
-MORPHEUS (V.O.) Stay here for a moment.
+MORPHEUS (-) Stay here for a moment.
 The Agents enter Neo's empty cubicle. A cop is sent to search the bathroom.
 Morpheus' voice is a whisper in Neo's ear.
-MORPHEUS (V.O.) A little longer...
+MORPHEUS (-) A little longer...
 Brown is talking to another employee.
-MORPHEUS (V.O.) When I tell you, go to the end of
+MORPHEUS (-) When I tell you, go to the end of
 the row to the first office on the left, stay as low as you can.
-Sweat trickles down his forehead. MORPHEUS (V.O.)
+Sweat trickles down his forehead. MORPHEUS (-)
 Now.
 (CONTINUED)
 17.
@@ -468,23 +466,23 @@ THE MATRIX - Rev. 3/9/98 18.
 Neo rolls out of the cubicle, his eyes popping as he freezes right behind a cop who has just turned around.
 Staying crouched, he sneaks away down the row, shooting across the opening to the first office on the left.
 18 INT. EMPTY OFFICE The room is empty.
-MORPHEUS (V.O.) Good. Outside there is a scaffold.
+MORPHEUS (-) Good. Outside there is a scaffold.
 NEO
 How do you know all this?
 Morpheus laughs quietly.
-MORPHEUS (V.O.) The answer is coming, Neo. There
+MORPHEUS (-) The answer is coming, Neo. There
 is a window in front of you. Open it.
 He opens the window. The WIND HOWLS into the room.
-MORPHEUS (V.O.)
+MORPHEUS (-)
 You can use the scaffold to get to
 the roof.
 NEO
 No! It's too far away.
-MORPHEUS (V.O.) There's a ledge. It's a short short climb. You can make it.
+MORPHEUS (-) There's a ledge. It's a short short climb. You can make it.
 Neo looks down; the building's glass wall vertigos into a concrete chasm.
 NEO
 No way, no way, this is crazy.
-MORPHEUS (V.O.) There are only two ways out of
+MORPHEUS (-) There are only two ways out of
 this building. One is that scaffold. The other is in their custody. You take a chance either way. I leave it to you.
 CLICK. He hangs up. Neo looks at the door, then back at the scaffold.
 17
@@ -595,23 +593,23 @@ a dream? His mouth He starts to take a --
 22.
 
 THE MATRIX - Rev. 3/9/98 21 CONTINUED:
-MORPHEUS (V.O.) This line is tapped so I must be
+MORPHEUS (-) This line is tapped so I must be
 brief.
 The Agents --
-MORPHEUS (V.O.) They got to you first, but they've
+MORPHEUS (-) They got to you first, but they've
 underestimated how important you are. If they knew what I know, you would probably be dead.
 NEO
 What are you talking about? What
 the hell is happening to me?
-MORPHEUS (V.O.) You're the One, Neo. You see, you
+MORPHEUS (-) You're the One, Neo. You see, you
 may have spent the last few years looking for me, but I've spent most of my life looking for you.
 Neo feels sick.
-MORPHEUS (V.O.) Do you still want to meet?
+MORPHEUS (-) Do you still want to meet?
 23.
 ... Yes.
 NEO
 NEO
-MORPHEUS (V.O.) Go to the Adams Street bridge.
+MORPHEUS (-) Go to the Adams Street bridge.
 CLICK. He closes his eyes, unsure of what
 22 EXT. CITY STREET - NIGHT
 It is just beyond the middle of the night;
@@ -1497,7 +1495,7 @@ MORPHEUS
 No, Neo. I'm trying to tell you
 that when you're ready, you won't have to.
 Morpheus' cell PHONE RINGS and he flips it open.
-TANK (V.O.) We got trouble.
+TANK (-) We got trouble.
 64 EXT. SEWER MAIN
 The Nebuchadnezzar blisters by, trailing a swirling,
 supercharged, electromagnetic wake.
@@ -2081,7 +2079,7 @@ NEO ... Right as rain.
 83 OMITTED 83
 84 INT. ROOM 1313 - DAY 84 Mouse's CELLULAR RINGS.
 MOUSE Welcome to Movie-Phone.
-TANK (V.O.) They're on their way.
+TANK (-) They're on their way.
 85 EXT. CITY STREET - DAY 85 As they get out of the car, Cypher smiles at Neo.
 CYPHER
 Like the man says, welcome to the
@@ -2154,7 +2152,7 @@ Neo nods, stuffing it into his belt.
 Heavy bolt cutters snap through the main phone cable.
 93 INT. ROOM 1313 - DAY
 Hearing the HELICOPTER, Mouse goes to the draped windows as his CELLULAR RINGS. He answers it.
-TANK (V.O.) They cut the hardline! It's a
+TANK (-) They cut the hardline! It's a
 trap! Get out! Mouse yanks open the curtain.
 Oh no.
 MOUSE
@@ -2197,7 +2195,7 @@ MORPHEUS We have no choice.
 Morpheus rips off his jacket.
 100 INT. MAIN DECK
 Tank answers the call.
-MORPHEUS (V.O.) Tank, find a structural drawing of
+MORPHEUS (-) Tank, find a structural drawing of
 this building and find it fast.
 101 INT. HOTEL LAFAYETTE - DAY
 Flashlights probe the rotting darkness as the police search every floor.
@@ -2207,11 +2205,11 @@ The diagram windows onto the screen.
 A99
 Got it.
 TANK
-MORPHEUS (V.O.) I need the main wet-wall.
+MORPHEUS (-) I need the main wet-wall.
 103 INT. ROOM 1313 - DAY
 Agent Smith stands over Mouse's dead body, his hand going to his earpiece.
 104 INT. ROOM 808 - DAY Morpheus is guided by Tank.
-TANK (V.O.)
+TANK (-)
 Now left, and that's it in front of
 103
 104
@@ -2348,7 +2346,7 @@ Tank is again at the monitors, searching the Matrix when the PHONE RINGS.
 TANK
 Operator.
 I need an exit! Fast!
-CYPHER (V.O.)
+CYPHER (-)
 (CONTINUED)
 
 THE MATRIX - Rev. 3/9/98
@@ -2364,21 +2362,21 @@ CYPHER
 There was an accident. A goddamn
 car accident. All of a sudden. Boom. Jesus, someone up there still likes me.
 I got you.
-TANK (V.O.)
+TANK (-)
 CYPHER Just get me outta here.
-TANK (V.O.)
+TANK (-)
 Nearest exit is Franklin and Erie.
 An old TV repair shop.
 Cypher hangs up and smiles as we hear FIRE TRUCKS in the distance.
 CYPHER An actor. Definitely.
 123 INT. MAIN DECK 123 The PHONE RINGS. Tank answers.
 Tank, it's me.
-TRINITY (V.O.)
+TRINITY (-)
 124 EXT. STREET - DAY 124 All four are moving quickly down a back street.
 NEO Is Morpheus alive?
 TRINITY
 Is Morpheus still alive, Tank?
-TANK (V.O.)
+TANK (-)
 Yes. They're moving him. I don't
 know where yet.
 (CONTINUED)
@@ -2387,9 +2385,9 @@ THE MATRIX - Rev. 3/9/98 124 CONTINUED:
 He's alive.
 Again, inevitability seems to cinch around Neo.
 TRINITY We need an exit!
-TANK (V.O.) You're not far from Cypher.
+TANK (-) You're not far from Cypher.
 TRINITY Cypher, I thought --
-TANK (V.O.)
+TANK (-)
 So did we. I sent him to Franklin
 85.
 124
@@ -2443,9 +2441,9 @@ The operator PHONE begins to RING. Cypher steps over the SIZZLING BODY of Dozer 
 133
 134 INT. TV REPAIR SHOP - DAY 134
 Every unanswered RING wrings her gut a little tighter, until --
-CYPHER (V.O.) Hello, Trinity.
+CYPHER (-) Hello, Trinity.
 TRINITY Cypher? Where's Tank?
-CYPHER (V.O.) He had an accident.
+CYPHER (-) He had an accident.
 TRINITY An accident?!
 INTERCUT WITH:
 135 INT. MAIN DECK 135
@@ -2793,7 +2791,7 @@ AGENT SMITH Human beings are a disease, a
 cancer of this planet. You are a plague. And we are... the cure.
 A144 INT. CONSTRUCT
 Neo and Trinity stand in the white space of as he answers his RINGING cell PHONE.
-TANK (V.O.)
+TANK (-)
 Okay. What do you need? Besides
 a miracle...
 NEO Guns. Lots of guns.
@@ -2974,12 +2972,12 @@ Not yet.
 THE MATRIX - Rev. 3/29/98 158 INT. HOVERCRAFT
 Tank is back at the controls. TANK
 Operator.
-TRINITY (V.O.) Tank, I need a pilot program for a
+TRINITY (-) Tank, I need a pilot program for a
 military B-212 helicopter.
 Tank is immediately searching the disk drawers.
 105. 158
 Hurry!
-TRINITY (V.O.)
+TRINITY (-)
 His fingers flash over the gleaming laser disks, finding one that he feeds into Trinity's supplement drive, punching the "load" commands on her keyboard.
 159 EXT. ROOF - DAY 159
 Trinity's eyes flutter as information surges into her brain, all the essentials of flying a helicopter absorbed at light-speed.
@@ -3071,15 +3069,15 @@ The PHONE RINGS. Tank.
 109. 168
 Damnit!
 AGENT SMITH
-MORPHEUS (V.O.)
+MORPHEUS (-)
 TANK
 Goddamn! It's good to hear your
 voice, sir!
-MORPHEUS (V.O.) We need an exit.
+MORPHEUS (-) We need an exit.
 TANK
 Got one ready, sir. Subway.
 State and Balbo.
-MORPHEUS (V.O.) We're on our way --
+MORPHEUS (-) We're on our way --
 169 EXT. ROOFTOP - DAY
 We rush at the roof access door as it suddenly slams open and the three Agents charge out. But Neo, Trinity and Morpheus are already gone.
 169
@@ -3232,7 +3230,7 @@ MORPHEUS Five minutes. Maybe six.
 Morpheus lifts the headset.
 MORPHEUS Tank, charge the E.M.P.
 Yes, sir.
-TANK (V.O.)
+TANK (-)
 TRINITY
 You can't use that until Neo is
 out!
@@ -3249,7 +3247,7 @@ Neo is in a full-out sprint, spinning and weaving away from every pedestrian, ev
 184 INT. HOVERCRAFT 184 Tank answers.
 Operator.
 TANK
-NEO (V.O.)
+NEO (-)
 Mr. Wizard, get me the hell out of
 here!
 185 EXT. CITY STREET - DAY 185 Neo dives down an alley, Agent Smith starting to gain.
@@ -3299,21 +3297,21 @@ THE MATRIX - Rev. 3/9/98 194 CONTINUED:
 NEO It's locked.
 118. 194
 Kick it in!
-TANK (V.O.)
+TANK (-)
 Peeling back, Neo almost kicks the door from its hinges, lunging from the Agents' BULLETS.
 195 INT. APARTMENT BUILDING - STAIRCASE 195 Neo springs up the old crooked apartment building stairs.
 A195 INT. APARTMENT BUILDING - HALL A195
 He is halfway down the hall, running in sharp, long strides when a door explodes open at the end.
-TANK (V.O.) Shit! The door on your left.
+TANK (-) Shit! The door on your left.
 Neo lurches, kicking in an apartment door.
-TANK (V.O.) No! Other left!
+TANK (-) No! Other left!
 He whirls back to his other left, battering through the door which splinters, perforated by BULLETS.
 An old woman watches TV as Neo blurs past her and into her kitchen, where another woman is chopping vegetables.
 That window!
-TANK (V.O.)
+TANK (-)
 Neo throws it open, leaping for the fire escape just as a knife buries itself in the window casing.
 Down! Down!
-TANK (V.O.)
+TANK (-)
 B195 EXT. APARTMENT BUILDING - FIRE ESCAPE B195
 Tumbling down the RATTLING FIRE ESCAPE, Neo leaps the last ten feet into the alley below with Agent Brown right behind him.
 Neo scrapes himself to his feet, broken and bleeding, charging for the end of the alley.
@@ -3463,27 +3461,27 @@ as in the opening. The cursor beating steadily, waiting. A PHONE begins to RING.
 
 THE MATRIX - Rev. 3/9/98 219 CONTINUED:
 It is answered and the screen fills instantly with the trace program. After a long beat, we recognize Neo's voice.
-NEO (V.O.)
+NEO (-)
 Hi. It's me. I know you're out
 there. I can feel you now.
 125. 219
 We CLOSE IN ON the racing columns of numbers shimmering across the screen.
-NEO (V.O.)
+NEO (-)
 I imagine you can also feel me.
 The numbers begin to lock into place.
-NEO (V.O.)
+NEO (-)
 You won't have to search for me
 anymore. I'm done running. Done hiding. Whether I'm done fighting, I suppose, is up to you.
 We GLIDE IN TOWARDS the screen.
-NEO (V.O.)
+NEO (-)
 I believe deep down, we both want
 this world to change. I believe that the Matrix can remain our cage or it can become our chrysalis, that's what you helped me to understand. That to be free, you cannot change your cage. You have to change yourself.
 We DIVE THROUGH the numbers, surging UP THROUGH the darkness, sucked TOWARDS a tight constellation of stars.
-NEO (V.O.)
+NEO (-)
 When I used to look out at this
 world, all I could see was its edges, its boundaries, its rules and controls, its leaders and laws. But now, I see another world. A different world where all things are possible. A world of hope. Of peace.
 We realize that the constellation is actually the holes in the mouthpiece of a phone. Seen from inside.
-NEO (V.O.)
+NEO (-)
 I can't tell you how to get there,
 but I know if you can free your mind, you'll find the way.
 

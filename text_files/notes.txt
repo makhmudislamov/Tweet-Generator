@@ -4,3 +4,11 @@ https://matrix-tweet-generator.herokuapp.com/
 
 run virtualenv:
 source flask/venv/bin/activate
+
+
+Run flask:
+
+cd flask/
+FLASK_APP=app.py
+run flask
+

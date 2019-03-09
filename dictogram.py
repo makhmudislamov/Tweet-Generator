@@ -23,6 +23,7 @@ class Dictogram(dict):
         self.tokens += count
 
         if word in self:
+            print(self)
             self[word] += count
         else:
             self.types += 1

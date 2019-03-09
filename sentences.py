@@ -10,7 +10,7 @@ def generate_sentences():
     Uses stochastic sampling.
     """
     return histogram_dict(file_cleaner(cleaner.file))
-    
+
 
 if __name__ == '__main__':
     print(generate_sentences())
